@@ -3,7 +3,7 @@
 	"movies":[
 			  {
 				"Title":"Back to the Future 2",
-				"Personal Ranking":1,
+				"Rank":1,
 				"Grossing": "331.9 million Dollars",
 				"Director":"Robert Zemeckis",
 				"Year":1989,
@@ -11,7 +11,7 @@
 			  },
 			  {
 				"Title":"Back to the Future 1",
-				"Personal Ranking":2,
+				"Rank":2,
 				"Grossing": "381.1 million Dollars",
 				"Director":"Robert Zemeckis",
 				"Year":1985,
@@ -19,7 +19,7 @@
 			  },
 			  {
 				"Title":"Back to the Future 3",
-				"Personal Ranking":3,
+				"Rank":3,
 				"Grossing": "244.0 million Dollars",
 				"Director":"Robert Zemeckis",
 				"Year":1990,
@@ -27,7 +27,7 @@
 			  },
 			  {
 				"Title":"Jaws",
-				"Personal Ranking":4,
+				"Rank":4,
 				"Grossing": "470.7 million Dollars",
 				"Director":"Steven Spielberg",
 				"Year":1975,
@@ -35,7 +35,7 @@
 			  },
 			  {
 				"Title":"Jurassic Park",
-				"Personal Ranking":5,
+				"Rank":5,
 				"Grossing": "652.27 million Dollars",
 				"Director":"Steven Spielberg",
 				"Year":1993,
@@ -43,7 +43,7 @@
 			  },
 			  {
 				"Title":"Indiana Jones Temple of Doom",
-				"Personal Ranking":6,
+				"Rank":6,
 				"Grossing": "179.8 million Dollars",
 				"Director":"Steven Spielberg",
 				"Year":1993,
@@ -51,7 +51,7 @@
 			  },
 			  {
 				"Title":"Ready Player 1",
-				"Personal Ranking":7,
+				"Rank":7,
 				"Grossing": "582.9 million Dollars",
 				"Director":"Steven Spielberg",
 				"Year":2018,
@@ -59,7 +59,7 @@
 			  },
 			  {
 				"Title":"Indiana Jones Lost Ark",
-				"Personal Ranking":8,
+				"Rank":8,
 				"Grossing": "212.2 million Dollars",
 				"Director":"Steven Spielberg",
 				"Year":1981,
@@ -67,7 +67,7 @@
 			  },
 			  {
 				"Title":"Indiana Jones Last Crusade",
-				"Personal Ranking":9,
+				"Rank":9,
 				"Grossing": "197.2 million Dollars",
 				"Director":"Steven Spielberg",
 				"Year":1989,
@@ -75,7 +75,7 @@
 			  },
 			  {
 				"Title":"Indiana Jones Crystal Skull",
-				"Personal Ranking":10,
+				"Rank":10,
 				"Grossing": "317.1 million Dollars",
 				"Director":"Steven Spielberg",
 				"Year":2008,
