@@ -74,10 +74,11 @@ function bondJSON(data){
 
 		let text = `
                 <b>Title</b>: ${item.Title}<br />
-                <b>Rank #</b>: ${item.Rank}<br />
-                <b>Grossing</b>: ${item.Grossing}<br /> 
-                <b>Director</b>: ${item.Director}<br />
-                <b>Year</b>: ${item.Year}<br />
+                <b>Film #</b>: ${item.Film}<br />
+                <b>Year</b>: ${item.Year}<br /> 
+                <b>Bond</b>: ${item.Bond}<br />
+                <b>Box Office</b>: ${item.BoxOffice}<br />
+                <b>Writers</b>: ${item.Writers}<br />
                 <div class="pic"><img src="images/${item.Image}"/></div>
 		`;
 		$("<div></div>").html(text).appendTo("#films");
