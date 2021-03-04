@@ -19,7 +19,8 @@ function serverSetup(server,cat){
        if(cat == "box"){//box office
            url = "data/movies-rank.js";
        }else{//year
-           url = "data/bond-year.js"; 
+          // url = "data/bond-year.js"; 
+          url = "data/movies-year.js";
        }
    }
    return url;
@@ -74,10 +75,10 @@ function bondJSON(data){
 
 		let text = `
                 <b>Title</b>: ${item.Title}<br />
-                <b>Film #</b>: ${item.Film}<br />
+                <b>Rank #</b>: ${item.Rank}<br />
                 <b>Year</b>: ${item.Year}<br /> 
                 <b>Bond</b>: ${item.Bond}<br />
-                <b>Box Office</b>: ${item.BoxOffice}<br />
+                <b>Box Office</b>: ${item.Grossing}<br />
                 <b>Director</b>: ${item.Director}<br />
                 <div class="pic"><img src="images/${item.Image}"/></div>
 		`;
